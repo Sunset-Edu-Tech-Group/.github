@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+There is nothing here.
+
 <!--
 
 **Here are some ideas to get you started:**
