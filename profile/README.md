@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-There is nothing here.
+There is nothing here. It's just a hobby club.
 
 <!--
 
