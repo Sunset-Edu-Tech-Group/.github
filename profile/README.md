@@ -2,7 +2,7 @@
 
 There is nothing here. It's just a hobby club.
 
-Contact @SunsetMkt to join us.
+Contact [@SunsetMkt](https://github.com/SunsetMkt/) or [make a pull request](https://github.com/Sunset-Edu-Tech-Group/join) to join us.
 
 <!--
 
