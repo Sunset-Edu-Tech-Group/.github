@@ -2,6 +2,8 @@
 
 There is nothing here. It's just a hobby club.
 
+Contact @SunsetMkt to join us.
+
 <!--
 
 **Here are some ideas to get you started:**
